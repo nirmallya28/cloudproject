@@ -1,0 +1,54 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    color: white;
+    margin: 0;
+    padding: 20px;
+}
+
+.scanner-container {
+    width: 80%;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    color: black;
+}
+
+video {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 10px;
+}
+
+button {
+    background: #2575fc;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background: #6a11cb;
+}
+
+canvas {
+    display: none;
+}
+
+#scanned-documents {
+    margin-top: 20px;
+}
+
+#documents-list img {
+    width: 150px;
+    margin: 10px;
+    border-radius: 5px;
+}
