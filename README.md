@@ -5,6 +5,8 @@ The **Cloud-Based Document Scanning System** is a web-based application that all
 
 ## Live Demo
 🔗 **Live URL:** [Click here to access the project](http://nirmallyadeb.s3-website.ap-south-1.amazonaws.com/)
+![image](https://github.com/user-attachments/assets/3ae71cbf-8bce-497d-9d92-94f8fdce7e40)
+
 ![612a0e14-3a58-41fb-825b-c7a1955065b8](https://github.com/user-attachments/assets/04ebbd54-89a7-41e7-94bd-11d1a822ca09)
 
 ## Features
@@ -22,7 +24,7 @@ The **Cloud-Based Document Scanning System** is a web-based application that all
 ## Setup and Deployment Steps
 ### 1. Clone the Repository
 ```bash
-   git clone https://github.com/your-username/cloud-document-scanner.git
+   git clone https://github.com/nirmallya28/cloudproject.git
    cd cloud-document-scanner
 ```
 
