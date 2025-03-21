@@ -5,6 +5,7 @@ The **Cloud-Based Document Scanning System** is a web-based application that all
 
 ## Live Demo
 🔗 **Live URL:** [Click here to access the project](http://nirmallyadeb.s3-website.ap-south-1.amazonaws.com/)
+![612a0e14-3a58-41fb-825b-c7a1955065b8](https://github.com/user-attachments/assets/04ebbd54-89a7-41e7-94bd-11d1a822ca09)
 
 ## Features
 - Scan and upload documents.
